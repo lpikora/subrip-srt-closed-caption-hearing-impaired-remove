@@ -1,8 +1,8 @@
-=What is this for?=
+# What is this for?
 
-This tool remove all subtitles items with ♪ symbol from `.srt` subtitle file. 
+This tool remove all subtitles items with `♪` symbol from `.srt` subtitle file. 
 
-=Installation=
+# Installation
 
 install `node` with `npm`
 
