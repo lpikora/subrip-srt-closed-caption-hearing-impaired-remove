@@ -2,6 +2,10 @@
   "name": "subrip-srt-closed-caption-hearing-impaired-remove",
   "version": "1.0.0",
   "description": "remove closed caption (hearing impared) subtitles",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/lpikora/subrip-srt-closed-caption-hearing-impaired-remove.git"
+  },
   "main": "index.js",
   "scripts": {
     "remove": "node index.js"
