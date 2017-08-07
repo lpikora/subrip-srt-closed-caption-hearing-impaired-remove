@@ -6,6 +6,7 @@
     "type" : "git",
     "url" : "https://github.com/lpikora/subrip-srt-closed-caption-hearing-impaired-remove.git"
   },
+  "author": "Lukáš Pikora",
   "main": "index.js",
   "scripts": {
     "remove": "node index.js"
@@ -13,8 +14,7 @@
   "bin": {
     "subrip-srt-closed-caption-hearing-impaired-remove": "index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "subtitles-parser": "0.0.2"
   }
