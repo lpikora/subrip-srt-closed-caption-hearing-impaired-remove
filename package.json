@@ -1,5 +1,5 @@
 {
-  "name": "subrip-closed-caption-remove",
+  "name": "subrip-srt-closed-caption-hearing-impaired-remove",
   "version": "1.0.0",
   "description": "remove closed caption (hearing impared) subtitles",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "remove": "node index.js"
   },
   "bin": {
-    "subrip-closed-caption-remove": "index.js"
+    "subrip-srt-closed-caption-hearing-impaired-remove": "index.js"
   },
   "author": "",
   "license": "ISC",
