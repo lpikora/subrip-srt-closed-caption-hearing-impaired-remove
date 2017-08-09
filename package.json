@@ -1,6 +1,6 @@
 {
   "name": "subrip-srt-closed-caption-hearing-impaired-remove",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "remove closed caption (hearing impared) subtitles",
   "repository" : {
     "type" : "git",
