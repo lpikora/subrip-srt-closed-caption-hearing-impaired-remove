@@ -1,6 +1,6 @@
 # What is this for?
 
-This tool remove all subtitles items with `♪` symbol from `.srt` subtitle file. 
+This tool remove all subtitles entries with `♪` character and all text between `[` `]` characters from `.srt` subtitle file. 
 
 # Installation
 
